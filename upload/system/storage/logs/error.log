@@ -1,0 +1,22 @@
+2021-06-29 11:45:26 - PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in C:\xampp\htdocs\unified-kingspay\upload\system\library\db\mysqli.php on line 7
+2021-06-29 11:45:26 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\xampp\htdocs\unified-kingspay\upload\system\library\db\mysqli.php on line 10
+2021-06-29 11:45:26 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\xampp\htdocs\unified-kingspay\upload\system\library\db\mysqli.php on line 10
+2021-06-29 11:45:26 - PHP Notice:  Undefined variable: mysql in C:\xampp\htdocs\unified-kingspay\upload\install\controller\install\step_3.php on line 280
+2021-06-29 11:45:26 - PHP Notice:  Trying to get property 'connect_error' of non-object in C:\xampp\htdocs\unified-kingspay\upload\install\controller\install\step_3.php on line 280
+2021-06-29 13:00:11 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\unified-kingspay\upload\system\library\mail\mail.php on line 77
+2021-06-29 13:02:01 - PHP Notice:  Undefined index: device_signature in C:\xampp\htdocs\unified-kingspay\upload\catalog\controller\extension\payment\kingspays.php on line 27
+2021-06-29 13:02:01 - PHP Notice:  Undefined index: ip_address in C:\xampp\htdocs\unified-kingspay\upload\catalog\controller\extension\payment\kingspays.php on line 29
+2021-06-29 13:03:18 - PHP Notice:  Undefined index: device_signature in C:\xampp\htdocs\unified-kingspay\upload\catalog\controller\extension\payment\kingspays.php on line 27
+2021-06-29 13:03:18 - PHP Notice:  Undefined index: ip_address in C:\xampp\htdocs\unified-kingspay\upload\catalog\controller\extension\payment\kingspays.php on line 29
+2021-06-29 13:03:28 - PHP Notice:  Undefined index: device_signature in C:\xampp\htdocs\unified-kingspay\upload\catalog\controller\extension\payment\kingspays.php on line 72
+2021-06-29 13:03:28 - PHP Notice:  Undefined index: ip_address in C:\xampp\htdocs\unified-kingspay\upload\catalog\controller\extension\payment\kingspays.php on line 74
+2021-06-29 13:03:29 - PHP Notice:  Undefined property: stdClass::$payment_id in C:\xampp\htdocs\unified-kingspay\upload\catalog\controller\extension\payment\kingspays.php on line 85
+2021-06-29 13:03:49 - PHP Warning:  unlink(C:/xampp/htdocs/unified-kingspay/upload/system/storage/cache/cache.catalog.language.1624975429): Resource temporarily unavailable in C:\xampp\htdocs\unified-kingspay\upload\system\library\cache\file.php on line 68
+2021-06-29 13:03:55 - PHP Notice:  Undefined index: device_signature in C:\xampp\htdocs\unified-kingspay\upload\catalog\controller\extension\payment\kingspays.php on line 27
+2021-06-29 13:03:55 - PHP Notice:  Undefined index: ip_address in C:\xampp\htdocs\unified-kingspay\upload\catalog\controller\extension\payment\kingspays.php on line 29
+2021-06-29 13:06:47 - PHP Notice:  Undefined index: device_signature in C:\xampp\htdocs\unified-kingspay\upload\catalog\controller\extension\payment\kingspays.php on line 27
+2021-06-29 13:06:47 - PHP Notice:  Undefined index: ip_address in C:\xampp\htdocs\unified-kingspay\upload\catalog\controller\extension\payment\kingspays.php on line 29
+2021-08-27 9:35:11 - PHP Warning:  mysqli::__construct(): (HY000/1049): Unknown database 'unified_kingspay' in C:\xampp\htdocs\unified-kingspay\upload\system\library\db\mysqli.php on line 7
+2021-08-27 9:35:11 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\xampp\htdocs\unified-kingspay\upload\system\library\db\mysqli.php on line 10
+2021-08-27 9:35:11 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\xampp\htdocs\unified-kingspay\upload\system\library\db\mysqli.php on line 10
+2021-08-27 9:35:11 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\xampp\htdocs\unified-kingspay\upload\system\library\db\mysqli.php on line 10
